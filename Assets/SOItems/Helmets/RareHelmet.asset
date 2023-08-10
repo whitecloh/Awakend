@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6707e636db8470f498801676c20ba9e8, type: 3}
+  m_Name: RareHelmet
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: c9a092cb2b86085468f44125c2fba3a1, type: 3}
+  _stackSize: 1
+  _quality: 2
+  _title: Wind Helmet
+  _armorPrefab: {fileID: 4063875674217330115, guid: 76f48e56f90f6574aac65f8b2ff35531, type: 3}
+  _armorType: 0
+  _strength: 4
+  _stamina: 7
+  _intellect: 7

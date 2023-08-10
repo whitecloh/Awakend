@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6707e636db8470f498801676c20ba9e8, type: 3}
+  m_Name: RareWings
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: ef84fa73fa2fcb147b51d88bcb579118, type: 3}
+  _stackSize: 1
+  _quality: 2
+  _title: Wind Wings
+  _armorPrefab: {fileID: 8567765556537052773, guid: bfe57b61b05515945b3775c0ed2e3e98, type: 3}
+  _armorType: 4
+  _strength: 3
+  _stamina: 6
+  _intellect: 8

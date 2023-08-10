@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6707e636db8470f498801676c20ba9e8, type: 3}
+  m_Name: RareBack
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 2d9d569eef69cf246bdd374281a9b4b1, type: 3}
+  _stackSize: 1
+  _quality: 2
+  _title: Wind Cape
+  _armorPrefab: {fileID: 2769147245250877794, guid: f2734222d1ef8f542845e9aa8c510d70, type: 3}
+  _armorType: 3
+  _strength: 5
+  _stamina: 12
+  _intellect: 3
